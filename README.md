@@ -8,7 +8,7 @@
 
 ---
 
-![Welcome to My World]([https://via.placeholder.com/1000x300.png?text=Designing+Future-Ready+Apps+with+Code+%7C+React+Native](https://www.mwanmobile.com/wp-content/uploads/2022/09/React-Native.png))
+![Welcome to My World]([https://via.placeholder.com/1000x300.png?text=Designing+Future-Ready+Apps+with+Code+%7C+React+Native])
 
 ---
 
