@@ -8,7 +8,7 @@
 
 ---
 
-![Welcome to My World]([https://via.placeholder.com/1000x300.png?text=Designing+Future-Ready+Apps+with+Code+%7C+React+Native])
+![Welcome to My World](https://via.placeholder.com/1000x300.png?text=Designing+Future-Ready+Apps+with+Code+%7C+React+Native)
 
 ---
 
